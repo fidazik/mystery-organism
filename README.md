@@ -1,2 +1,4 @@
-# mystery-organism
+# Mystery-organism
 A Codecademy Challenge Project
+
+## Introduction
